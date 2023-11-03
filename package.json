@@ -1,0 +1,33 @@
+{
+  "name": "obs-nodejs-express-sequelize-oracl",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis with Express, Sequelize & oracle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Suju",
+  "dependencies": {
+    "array-to-tree": "^3.3.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mssql": "^10.0.1",
+    "multer": "^1.4.3",
+    "mysql2": "^2.3.3",
+    "node-uuid": "^1.4.8",
+    "oracledb": "^5.5.0",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "puppeteer": "^18.1.0",
+    "sequelize": "^6.33.0",
+    "tedious": "^16.4.1",
+    "uuid": "^8.3.2"
+  }
+}
