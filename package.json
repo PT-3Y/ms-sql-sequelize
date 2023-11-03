@@ -1,7 +1,7 @@
 {
-  "name": "obs-nodejs-express-sequelize-oracl",
+  "name": "obs-nodejs-express-sequelize-mssql",
   "version": "1.0.0",
-  "description": "Node.js Rest Apis with Express, Sequelize & oracle",
+  "description": "Node.js Rest Apis with Express, Sequelize & mssql",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
